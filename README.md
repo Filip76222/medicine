@@ -3,21 +3,21 @@ Aplikacja ma na celu pomoc głównie ludziom starszym w suplementowaniu leków z
 
 ## Spis treści
 <br>1.**Wstęp **<br>
-1.1  Opis problemu 
-1.2 Cel pracy 
-2. **Badanie zapotrzebowania na aplikację.** 
-3. **Opis technologii z których będę korzystał przy tworzeniu aplikacji. **
-4. **Projektowanie aplikacji. **
-4.1 UI 
-4.2 Architektura aplikacji. 
-5. **Wdrożenie poszczególnych funkcjonalności.** 
-6. **Podsumowanie. **
+<br>1.1  Opis problemu <br>
+<br>1.2 Cel pracy <br>
+<br>2. **Badanie zapotrzebowania na aplikację.** <br>
+<br>3. **Opis technologii z których będę korzystał przy tworzeniu aplikacji. **<br>
+<br>4. **Projektowanie aplikacji. **<br>
+<br>4.1 UI <br>
+<br>4.2 Architektura aplikacji. <br>
+<br>5. **Wdrożenie poszczególnych funkcjonalności.** <br>
+<br>6. **Podsumowanie. **<br>
 
 
 ### Bibliografia 
 
-Flutter Documentation https://docs.flutter.dev/ 
+<br>Flutter Documentation https://docs.flutter.dev/ <br>
 
-Azure Documentation https://learn.microsoft.com/en-us/azure/?product=popular 
+<br>Azure Documentation https://learn.microsoft.com/en-us/azure/?product=popular <br>
 
-Node.js Documentation https://nodejs.org/en/docs 
+<br>Node.js Documentation https://nodejs.org/en/docs <br>
